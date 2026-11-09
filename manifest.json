@@ -1,0 +1,96 @@
+{
+  "id": "./",
+  "name": "Salami Khata",
+  "short_name": "Salami Khata",
+  "description": "Record wedding salami you receive and give. Sign in to save it online, or use it as a guest. English and Urdu.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FCF4F1",
+  "theme_color": "#7A0F2E",
+  "lang": "en",
+  "dir": "auto",
+  "categories": [
+    "lifestyle",
+    "finance",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/1-welcome.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Sign in or continue as a guest"
+    },
+    {
+      "src": "screenshots/2-khata.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Your salami khata"
+    },
+    {
+      "src": "screenshots/3-entry.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "See what they gave before you give"
+    },
+    {
+      "src": "screenshots/4-fast.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Fast entry at the wedding desk"
+    },
+    {
+      "src": "screenshots/5-person.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Who gave what"
+    },
+    {
+      "src": "screenshots/6-account.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Saved online on every phone"
+    },
+    {
+      "src": "screenshots/7-urdu.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Works in Urdu"
+    }
+  ]
+}
