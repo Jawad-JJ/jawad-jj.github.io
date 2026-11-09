@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jawad_jj.salamikhata",
+        "sha256_cert_fingerprints": ["B3:52:B2:06:88:68:42:7D:F2:6F:8D:6A:A1:8C:69:70:31:87:66:04:DC:2E:AE:41:E0:18:03:9B:21:F1:5E:5E"]
+      }
+    }]
